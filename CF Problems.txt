@@ -1,2 +1,4 @@
 CF Problem : 1766A Extremely Round
 https://codeforces.com/problemset/problem/1766/A
+
+NOTE: To make the code efficient , we need to reduce the number of LOOPS. That's why, we have used 2 arrays ( one is - normal count for "all integer within the constraint"  & the other one is psum - " Prefix Sum " ). The user define function makes the code more organized & readable.

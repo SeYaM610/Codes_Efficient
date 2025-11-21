@@ -1,3 +1,6 @@
+https://codeforces.com/contest/2163/problem/C
+// l,r - 2 pointer problem/ sliding window problem
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -74,4 +77,5 @@ int main()
         }
         cout<<ans<<endl;
     }
+
 }
